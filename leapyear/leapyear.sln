@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leapyear", "leapyear.csproj", "{81570DAC-5CD8-45CC-909F-1088577D4DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81570DAC-5CD8-45CC-909F-1088577D4DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81570DAC-5CD8-45CC-909F-1088577D4DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81570DAC-5CD8-45CC-909F-1088577D4DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81570DAC-5CD8-45CC-909F-1088577D4DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B711775-F76D-4814-9A65-9C63CDEADAE2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\bin\Debug\net5.0\VowelConsonant.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\refint\VowelConsonant.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\VowelConsonant.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\VowelConsonant\obj\Debug\net5.0\ref\VowelConsonant.dll

@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\bin\Debug\net5.0\PowerOf2.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\refint\PowerOf2.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\PowerOf2.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\PowerOf2\obj\Debug\net5.0\ref\PowerOf2.dll

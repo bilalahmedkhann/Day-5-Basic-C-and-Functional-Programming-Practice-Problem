@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\bin\Debug\net5.0\Swapping2Numbers.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\refint\Swapping2Numbers.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\Swapping2Numbers.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Swapping2Numbers\obj\Debug\net5.0\ref\Swapping2Numbers.dll

@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bilal Ahmed Khan\\C_Sharp_Bridgelabz\\PrimeFactors\\PrimeFactors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bilal Ahmed Khan\\C_Sharp_Bridgelabz\\PrimeFactors\\PrimeFactors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bilal Ahmed Khan\\C_Sharp_Bridgelabz\\PrimeFactors\\PrimeFactors.csproj",
+        "projectName": "PrimeFactors",
+        "projectPath": "C:\\Users\\Bilal Ahmed Khan\\C_Sharp_Bridgelabz\\PrimeFactors\\PrimeFactors.csproj",
+        "packagesPath": "C:\\Users\\Bilal Ahmed Khan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bilal Ahmed Khan\\C_Sharp_Bridgelabz\\PrimeFactors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bilal Ahmed Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

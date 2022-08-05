@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\bin\Debug\net5.0\Harmonic.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\refint\Harmonic.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\Harmonic.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\Harmonic\obj\Debug\net5.0\ref\Harmonic.dll

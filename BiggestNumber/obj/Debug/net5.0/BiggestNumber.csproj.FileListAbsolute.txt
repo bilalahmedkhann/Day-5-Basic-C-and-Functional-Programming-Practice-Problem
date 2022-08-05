@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\bin\Debug\net5.0\BiggestNumber.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\refint\BiggestNumber.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\BiggestNumber.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\BiggestNumber\obj\Debug\net5.0\ref\BiggestNumber.dll

@@ -1,0 +1,16 @@
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.exe
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.deps.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.runtimeconfig.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.runtimeconfig.dev.json
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\bin\Debug\net5.0\QuotientAndRemainder.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.csproj.AssemblyReference.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.AssemblyInfoInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.AssemblyInfo.cs
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\refint\QuotientAndRemainder.dll
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.pdb
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\QuotientAndRemainder.genruntimeconfig.cache
+C:\Users\Bilal Ahmed Khan\C_Sharp_Bridgelabz\QuotientAndRemainder\obj\Debug\net5.0\ref\QuotientAndRemainder.dll
